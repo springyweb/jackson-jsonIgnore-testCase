@@ -1,0 +1,8 @@
+target
+.project
+.settings
+.classpath
+jmeter.log
+*.jpage
+.pmd
+.springBeans
